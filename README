@@ -1,0 +1,5 @@
+To use the code:
+1. Create a data file following the samples.txt
+2. Run the command $python3 cal.snr.py <input-file-name> 
+	In this case samples.txt is the input file name, you must use the file you have created in the place of second argument in the code.
+3. You can just run $python3 cal.snr.py , to see how to use it.
